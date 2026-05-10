@@ -88,7 +88,8 @@ This helped in:
 <div align="center">
  <img src="overview with project screenshot/ui-design.jpg" width="800"/> 
 </div>
-🔗 [View Full Figma Design]([YOUR_FIGMA_LINK](https://www.figma.com/board/AXNavYFHRsR9y7WosBUG1x/designParking?node-id=2-2025&t=r4FhmnCFOaEv6qUW-1))
+🔗 [View Full Figma Design] (https://www.figma.com/board/AXNavYFHRsR9y7WosBUG1x/designParking?node-id=2-2025&t=r4FhmnCFOaEv6qUW-1))
+
 ![Figma](https://img.shields.io/badge/Designed%20With-Figma-orange?style=for-the-badge&logo=figma)
 
 # 🖼️ Project Preview
