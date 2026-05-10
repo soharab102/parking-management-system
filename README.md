@@ -4,7 +4,7 @@
 
 ### Smart Desktop-Based Parking Solution Using C# & SQL Server
 
-<img src="images/dashboard.png" width="900"/>
+<img src="overview with project screenshot/dashboard.png" width="500"/>
 
 ![C#](https://img.shields.io/badge/C%23-WindowsForms-blue?style=for-the-badge&logo=csharp)
 ![SQL Server](https://img.shields.io/badge/SQL-Server-red?style=for-the-badge&logo=microsoftsqlserver)
@@ -75,6 +75,18 @@ The project was developed as an academic project for **Object Oriented Programmi
 - Search & Refresh Data
 
 ---
+# 🎨 UI/UX Design
+
+The user interface of this project was designed using **Figma** before development implementation.
+
+### Design Goals
+- Clean Dashboard Layout
+- User-Friendly Navigation
+- Modern Parking Management Interface
+- Easy Access to Features
+- Consistent Color System
+
+![Figma](https://img.shields.io/badge/Designed%20With-Figma-orange?style=for-the-badge&logo=figma)
 
 # 🖼️ Project Preview
 
@@ -105,6 +117,7 @@ The project was developed as an academic project for **Object Oriented Programmi
 <img src="overview with project screenshot/delete.png" width="700"/>
 
 ---
+
 
 # 🛠️ Technologies Used
 
@@ -198,7 +211,7 @@ to run the application.
 
 🎓 CSE Student  
 💻 C# Windows Forms Developer  
-🎨 Graphics Designer  
+🎨 Designer and Developer 
 
 ---
 
