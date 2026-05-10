@@ -80,25 +80,29 @@ The project was developed as an academic project for **Object Oriented Programmi
 
 ## 🏠 Dashboard
 
-<img src="overview with project screenshot/dashboard.png" width="900"/>
+<img src="overview with project screenshot/dashboard.png" width="700"/>
 
 ---
 
 ## ➕ Add Booking
 
-<img src="images/add.png" width="900"/>
+<img src="overview with project screenshot/add.png" width="700"/>
 
 ---
+## 🛠️ Update
 
+<img src="overview with project screenshot/update.png" width="700"/>
+
+---
 ## 💳 Payment System
 
-<img src="images/payment.png" width="900"/>
+<img src="overview with project screenshot/payment.png" width="700"/>
 
 ---
 
 ## ❌ Delete System
 
-<img src="images/delete.png" width="900"/>
+<img src="overview with project screenshot/delete.png" width="700"/>
 
 ---
 
