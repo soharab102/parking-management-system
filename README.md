@@ -80,7 +80,7 @@ The project was developed as an academic project for **Object Oriented Programmi
 
 ## 🏠 Dashboard
 
-<img src="images/dashboard.png" width="900"/>
+<img src="overview with project screenshot/dashboard.png" width="900"/>
 
 ---
 
