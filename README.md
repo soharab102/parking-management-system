@@ -75,17 +75,20 @@ The project was developed as an academic project for **Object Oriented Programmi
 - Search & Refresh Data
 
 ---
-# 🎨 UI/UX Design
+## 🎨 Figma UI Design
 
-The user interface of this project was designed using **Figma** before development implementation.
+Before development, the complete user interface workflow and system layout were designed in **Figma**.
 
-### Design Goals
-- Clean Dashboard Layout
-- User-Friendly Navigation
-- Modern Parking Management Interface
-- Easy Access to Features
-- Consistent Color System
+This helped in:
+- Planning user interaction
+- Creating a clean dashboard
+- Designing feature flow
+- Improving user experience
 
+<div align="center">
+ <img src="overview with project screenshot/ui-design.jpg" width="800"/> 
+</div>
+🔗 [View Full Figma Design]([YOUR_FIGMA_LINK](https://www.figma.com/board/AXNavYFHRsR9y7WosBUG1x/designParking?node-id=2-2025&t=r4FhmnCFOaEv6qUW-1))
 ![Figma](https://img.shields.io/badge/Designed%20With-Figma-orange?style=for-the-badge&logo=figma)
 
 # 🖼️ Project Preview
@@ -124,7 +127,7 @@ The user interface of this project was designed using **Figma** before developme
 | Technology | Description |
 |------------|-------------|
 | C# | Backend Logic |
-| Windows Forms | Desktop UI |
+| Windows Forms | Desktop UI | Figma
 | SQL Server | Database |
 | ADO.NET | Database Connectivity |
 | Visual Studio | Development Environment |
