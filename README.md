@@ -86,7 +86,7 @@ This helped in:
 - Improving user experience
 
 <div align="center">
- <img src="overview with project screenshot/ui-design.jpg" width="800"/> 
+ <img src="overview with project screenshot/designParking.png" width="800"/> 
 </div>
 <div>
   🔗 [View Full Figma Design] (https://www.figma.com/board/AXNavYFHRsR9y7WosBUG1x/designParking?node-id=2-2025&t=r4FhmnCFOaEv6qUW-1))
