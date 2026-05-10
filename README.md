@@ -4,8 +4,6 @@
 
 ### Smart Desktop-Based Parking Solution Using C# & SQL Server
 
-<img src="overview with project screenshot/dashboard.png" width="500"/>
-
 ![C#](https://img.shields.io/badge/C%23-WindowsForms-blue?style=for-the-badge&logo=csharp)
 ![SQL Server](https://img.shields.io/badge/SQL-Server-red?style=for-the-badge&logo=microsoftsqlserver)
 ![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-purple?style=for-the-badge&logo=visualstudio)
@@ -75,6 +73,8 @@ The project was developed as an academic project for **Object Oriented Programmi
 - Search & Refresh Data
 
 ---
+# 🖼️ Project Preview
+
 ## 🎨 Figma UI Design
 
 Before development, the complete user interface workflow and system layout were designed in **Figma**.
@@ -88,11 +88,13 @@ This helped in:
 <div align="center">
  <img src="overview with project screenshot/ui-design.jpg" width="800"/> 
 </div>
-🔗 [View Full Figma Design] (https://www.figma.com/board/AXNavYFHRsR9y7WosBUG1x/designParking?node-id=2-2025&t=r4FhmnCFOaEv6qUW-1))
+<div>
+  🔗 [View Full Figma Design] (https://www.figma.com/board/AXNavYFHRsR9y7WosBUG1x/designParking?node-id=2-2025&t=r4FhmnCFOaEv6qUW-1))
+</div>
 
 ![Figma](https://img.shields.io/badge/Designed%20With-Figma-orange?style=for-the-badge&logo=figma)
 
-# 🖼️ Project Preview
+
 
 ## 🏠 Dashboard
 
